@@ -1,13 +1,13 @@
 # Patient-Readmission-Predictor-
-🏥 Diabetes Readmission Prediction
-📌 Project Overview
+** Diabetes Readmission Prediction**
+**Project Overview**
 
 Hospital readmissions are costly and often preventable.
 This project analyzes diabetic patient data to predict the likelihood of 30-day hospital readmission, helping healthcare providers identify high-risk patients and improve post-discharge care.
 
 The goal is to demonstrate end-to-end data analytics and machine learning skills, from data cleaning to actionable insights.
 
-🎯 Problem Statement
+ **Problem Statement**
 
 Diabetic patients have a high rate of hospital readmission due to complications and inconsistent follow-up care.
 Accurately predicting readmission risk can:
@@ -20,7 +20,7 @@ Support data-driven clinical decisions
 
 This project builds predictive models to identify patients at higher risk of readmission.
 
-📊 Dataset Description
+ **Dataset Description**
 
 Source: Public healthcare dataset (UCI ML Repository – Diabetic Data)
 
@@ -44,7 +44,7 @@ Medication usage
 
 Discharge and admission details
 
-🛠️ Tools & Technologies
+** Tools & Technologies**
 
 Programming: Python
 
@@ -62,7 +62,7 @@ Feature Engineering
 
 Classification Modeling
 
-🔍 Methodology
+**Methodology**
 
 Data Cleaning
 
@@ -98,7 +98,7 @@ Recall
 
 Confusion Matrix
 
-📈 Results & Insights
+**Results & Insights**
 
 Certain patient behaviors (frequent inpatient visits, prior diagnoses) strongly correlate with readmission risk
 
